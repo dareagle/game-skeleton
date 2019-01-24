@@ -1,6 +1,6 @@
 This project is the skeleton for the creation of a game using the Game Engine Toolkit of [CodinGame](https://codingame.com).
 
-Check the documentation on the [github repository](https://github.com/CodinGame/codingame-sdk-doc).
+Check the documentation on the [tech.io playground](https://www.codingame.com/playgrounds/25775).
 
 ## Note about the game turn implementation
 There are 2 ways to implement your game turn according to the game you want to create. **The simultaneous mode** or the **Turn by Turn mode**.
